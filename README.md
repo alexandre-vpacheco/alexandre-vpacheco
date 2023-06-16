@@ -9,7 +9,11 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-p-52581b203/)
 
 ### Estatísticas do Perfil / Profile Stats
-![Alexandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandre-vpacheco&show_icons=true&theme=tokyonight)
+
+<div style="display: inline_block"><br/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandre-vpacheco&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-vpacheco&layout=compact&theme=tokyonight"/>
+</div>
 
 ### Tecnologias / Technologies
 
