@@ -1,8 +1,5 @@
 # Hello There!! 👋
 ###
-🔭 Sou um desenvolvedor FullStack em formação e atualmente sou Residente em TIC/Software no Serratec.
-
-🌱 No momento estou aprendendo React Native para desenvolvimento mobile.
 
 ### Redes / Social Media
 
